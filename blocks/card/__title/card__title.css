@@ -1,0 +1,8 @@
+.card__title {
+  grid-area: title;
+  margin: auto 0;
+  text-align: center;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 24px;
+}
